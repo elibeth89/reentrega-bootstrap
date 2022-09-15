@@ -1,0 +1,39 @@
+.inicio {
+    
+    background-color: rgb(231, 242, 206);
+    
+}
+
+.categorias {
+    background-color: rgb(139, 187, 239);
+}
+
+.promociones {
+    background-color: rgb(231, 242, 206);
+}
+
+.preguntas {
+    background-color: rgb(139, 187, 239);
+}
+
+.Contacto {
+    background-color: rgb(231, 242, 206);
+}
+
+.card {
+    height: 480px;
+}
+
+.card-text {
+    height: 60px;
+    
+}
+
+.btn {
+    display: flex;
+    width: 110px;
+    height: 30px;
+    justify-content: center;
+
+}
+
